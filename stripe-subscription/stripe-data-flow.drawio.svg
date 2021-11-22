@@ -1,23 +1,293 @@
-<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="121px" height="61px" viewBox="-0.5 -0.5 121 61" content="&lt;mxfile&gt;&lt;diagram id=&quot;BMQjFITNYA5DKxlAmStH&quot; name=&quot;ページ1&quot;&gt;jZI9b4QwDIZ/TXYg6tFbS6/XpRND54i4JFLAKISv/vqGxjlAqFKXyH5sJ/YbM140892KTn2gBMOyRM6Mv7Isy59yf65gCYBfCdRWy4DSDZT6GwgmRActoT8kOkTjdHeEFbYtVO7AhLU4HdO+0Bxf7UQNJ1BWwpzpp5ZOBfqc5Rt/B12r+HJ6uYZII2IyTdIrIXHaIX5jvLCILljNXIBZtYu6hLq3P6KPxiy07j8FWSgYhRlotn6sqTW3xHktDq2EtSRh/GVS2kHZiWqNTv6DPVOuMd5LvXlugboawTqYd4haugM24OziU+KCkDq0Hhdyp03rNAqodjrHPEHfWz8u3hTwBokQ3U3s39huY/ntBw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1375px" height="381px" viewBox="-0.5 -0.5 1375 381" content="&lt;mxfile&gt;&lt;diagram id=&quot;BMQjFITNYA5DKxlAmStH&quot; name=&quot;ページ1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
     <defs/>
     <g>
-        <rect x="0" y="0" width="120" height="60" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <rect x="0" y="100" width="80" height="80" fill="#ffffff" stroke="#000000" pointer-events="all"/>
+        <rect x="200" y="0" width="210" height="30" fill="none" stroke="none" pointer-events="all"/>
         <g transform="translate(-0.5 -0.5)">
             <switch>
                 <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
-                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 30px; margin-left: 1px;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 208px; height: 1px; padding-top: 15px; margin-left: 201px;">
                         <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
                             <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: normal; word-wrap: normal; ">
-                                svg
+                                クライアント
                             </div>
                         </div>
                     </div>
                 </foreignObject>
-                <text x="60" y="34" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
-                    svg
+                <text x="305" y="19" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    クライアント
                 </text>
             </switch>
         </g>
+        <path d="M 200 0 L 150 0 L 150 380 L 200 380" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 200 0 L 1374 0 L 1374 380 L 200 380" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 200 0 L 200 380" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,175,190)">
+            <text x="174.5" y="187.5">
+                サブスクリプションのプランを取得する
+            </text>
+        </g>
+        <path d="M 200 40 L 200 0 L 684 0 L 684 40" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 200 40 L 200 380 L 684 380 L 684 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 200 40 L 684 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="441.5" y="24.5">
+                フロントエンド
+            </text>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 268px; height: 1px; padding-top: 55px; margin-left: 201px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                Home.js
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="335" y="59" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">
+                    Home.js
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 190px; margin-left: 257px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; ">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-size: 14px ; line-height: 17px">
+                                    <div style="font-size: 14px">
+                                        <span style="color: rgb(86 , 156 , 214) ; font-size: 14px">
+                                            const
+                                        </span>
+                                        <span style="color: rgb(220 , 220 , 170) ; font-size: 14px">
+                                            fetchPrices
+                                        </span>
+                                        =
+                                        <span style="color: rgb(86 , 156 , 214) ; font-size: 14px">
+                                            async
+                                        </span>
+                                        ()
+                                        <span style="color: rgb(86 , 156 , 214) ; font-size: 14px">
+                                            =&gt;
+                                        </span>
+                                        {
+                                    </div>
+                                    <div style="font-size: 14px">
+                                        <span style="color: rgb(86 , 156 , 214) ; font-size: 14px">
+                                            const
+                                        </span>
+                                        {
+                                        <span style="color: rgb(79 , 193 , 255) ; font-size: 14px">
+                                            data
+                                        </span>
+                                        } =
+                                        <span style="color: rgb(197 , 134 , 192) ; font-size: 14px">
+                                            await
+                                        </span>
+                                        <span style="color: rgb(79 , 193 , 255) ; font-size: 14px">
+                                            axios
+                                        </span>
+                                        .
+                                        <span style="color: rgb(220 , 220 , 170) ; font-size: 14px">
+                                            get
+                                        </span>
+                                        (
+                                        <span style="color: rgb(206 , 145 , 120) ; font-size: 14px">
+                                            '/prices'
+                                        </span>
+                                        )
+                                    </div>
+                                    <div style="font-size: 14px">
+                                        <br style="font-size: 14px"/>
+                                    </div>
+                                    <div style="font-size: 14px">
+                                        <span style="color: rgb(220 , 220 , 170) ; font-size: 14px">
+                                            setPrices
+                                        </span>
+                                        (
+                                        <span style="color: rgb(79 , 193 , 255) ; font-size: 14px">
+                                            data
+                                        </span>
+                                        )
+                                    </div>
+                                    <div style="font-size: 14px">
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="257" y="194" fill="#000000" font-family="Helvetica" font-size="14px">
+                    const fetchPrices = async() =&gt; {...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 110px; margin-left: 380px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; ">
+                                バックエンドサーバーにリクエスト
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="380" y="114" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    バックエンドサーバーにリクエスト
+                </text>
+            </switch>
+        </g>
+        <path d="M 684 40 L 684 0 L 1054 0 L 1054 40" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 684 40 L 684 380 L 1054 380 L 1054 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 684 40 L 1054 40" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="868.5" y="24.5">
+                バックエンド
+            </text>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 110px; margin-left: 879px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; ">
+                                ストライプからデータを取得し、フロントへ返却
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="879" y="114" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    ストライプからデータを取得し、フロントへ返却
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 190px; margin-left: 736px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; ">
+                                <div style="color: rgb(212 , 212 , 212) ; background-color: rgb(30 , 30 , 30) ; font-size: 14px ; line-height: 17px">
+                                    <div style="font-size: 14px">
+                                        <span style="color: rgb(197 , 134 , 192) ; font-size: 14px">
+                                            export
+                                        </span>
+                                        <span style="color: rgb(86 , 156 , 214) ; font-size: 14px">
+                                            const
+                                        </span>
+                                        <span style="color: rgb(220 , 220 , 170) ; font-size: 14px">
+                                            prices
+                                        </span>
+                                        =
+                                        <span style="color: rgb(86 , 156 , 214) ; font-size: 14px">
+                                            async
+                                        </span>
+                                        (
+                                        <span style="color: rgb(156 , 220 , 254) ; font-size: 14px">
+                                            req
+                                        </span>
+                                        ,
+                                        <span style="color: rgb(156 , 220 , 254) ; font-size: 14px">
+                                            res
+                                        </span>
+                                        )
+                                        <span style="color: rgb(86 , 156 , 214) ; font-size: 14px">
+                                            =&gt;
+                                        </span>
+                                        {
+                                    </div>
+                                    <div style="font-size: 14px">
+                                        <span style="color: rgb(86 , 156 , 214) ; font-size: 14px">
+                                            const
+                                        </span>
+                                        <span style="color: rgb(79 , 193 , 255) ; font-size: 14px">
+                                            prices
+                                        </span>
+                                        =
+                                        <span style="color: rgb(197 , 134 , 192) ; font-size: 14px">
+                                            await
+                                        </span>
+                                        <span style="color: rgb(79 , 193 , 255) ; font-size: 14px">
+                                            stripe
+                                        </span>
+                                        .
+                                        <span style="color: rgb(156 , 220 , 254) ; font-size: 14px">
+                                            prices
+                                        </span>
+                                        .
+                                        <span style="color: rgb(220 , 220 , 170) ; font-size: 14px">
+                                            list
+                                        </span>
+                                        ();
+                                    </div>
+                                    <div style="font-size: 14px">
+                                        <span style="color: rgb(156 , 220 , 254) ; font-size: 14px">
+                                            res
+                                        </span>
+                                        .
+                                        <span style="color: rgb(220 , 220 , 170) ; font-size: 14px">
+                                            json
+                                        </span>
+                                        (
+                                        <span style="color: rgb(79 , 193 , 255) ; font-size: 14px">
+                                            prices
+                                        </span>
+                                        .
+                                        <span style="color: rgb(156 , 220 , 254) ; font-size: 14px">
+                                            data
+                                        </span>
+                                        .
+                                        <span style="color: rgb(220 , 220 , 170) ; font-size: 14px">
+                                            reverse
+                                        </span>
+                                        ());
+                                    </div>
+                                    <div style="font-size: 14px">
+                                        };
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="736" y="194" fill="#000000" font-family="Helvetica" font-size="14px">
+                    export const prices = async (req, res)...
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 268px; height: 1px; padding-top: 55px; margin-left: 745px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                sub.controller.js
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="879" y="59" fill="#000000" font-family="Helvetica" font-size="14px" text-anchor="middle">
+                    sub.controller.js
+                </text>
+            </switch>
+        </g>
+        <path d="M 1054 30 L 1054 0 L 1374 0 L 1374 30" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1054 30 L 1054 380 L 1374 380 L 1374 30" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1054 30 L 1374 30" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="1213.5" y="19.5">
+                Lane 3
+            </text>
+        </g>
+        <path d="M 505 190 L 725.76 190" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 731.76 190 L 723.76 194 L 725.76 190 L 723.76 186 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 840 225 L 840 260 L 380 260 L 380 243.24" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 380 237.24 L 384 245.24 L 380 243.24 L 376 245.24 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
     </g>
     <switch>
         <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
