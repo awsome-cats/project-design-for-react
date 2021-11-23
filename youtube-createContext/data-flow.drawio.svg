@@ -1,0 +1,69 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1421px" height="591px" viewBox="-0.5 -0.5 1421 591" content="&lt;mxfile&gt;&lt;diagram id=&quot;P4jE-dFxFRlc6ndOqD-c&quot; name=&quot;ページ1&quot;&gt;zZZNb6MwEIZ/jY8rBTvBcIQs6a7USpVy2LMLbrAWcGScJvTXrx3GAUrSRUrT9sT49fjrfUYjEFmWhzvFtvmDzHiB8Cw7IPITYYwpJuZjlaZVPOqDslEiA60T1uKVgzgDdScyXg8StZSFFtuhmMqq4qkeaEwpuR+mPctieOqWbfhIWKesGKt/RKbzVg0w7fRfXGxyd7Lnh+1MyVwyvKTOWSb3PYkkiCyVlLqNysOSF9Y950u7bnVh9nQxxSs9ZQFuF7ywYgdvQwlBAUbR6hgQFIVOmbsAw1RMIAgCeI1unEX1XpQFq8woTnNRZPeskTt7pVqz9K8bxYrXhu6ju6/3RnpgtmhmRs2lEq+y0qyANLOP0lAaeJixtkfAurEh4NELV5ofehIYdMdlybVqTArM/vB8Argap3gO4L7jT1155j32ixBEBjW3Oe3fYTEBkDlPiZyndDQeAocipC6IHKUlcIvbZA9FMUoCFJnAKNSCjSOYCh3tIHY709E+KwhCc40FClYo9G0QJ+704T7vlEYfIhlhPs8PT+YHtKaiIuQDUM1HqO7tU/EMT/UB38oHsphoxKm4rzFicckI8uVGzOlnGuGPjLC9b/dkvYgef3/zzjly9Uwzvdw5Q/y1jZNeKkLvI4rwP97436crBTftSlf58LldKbxpV7rKiJt2JTPsfiqPc71/c5L8Aw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 0 20 L 0 0 L 710 0 L 710 20" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 20 L 0 590 L 710 590 L 710 20" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 20 L 710 20" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="354.5" y="14.5">
+                クライアント
+            </text>
+        </g>
+        <path d="M 30 20 L 0 20 L 0 350 L 30 350" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 30 20 L 710 20 L 710 350 L 30 350" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 30 20 L 30 350" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,15,185)">
+            <text x="14.5" y="189.5">
+                トップページに表示するデータを取得する
+            </text>
+        </g>
+        <path d="M 20 350 L 0 350 L 0 470 L 20 470" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 20 350 L 710 350 L 710 470 L 20 470" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 20 350 L 20 470" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,10,410)">
+            <text x="9.5" y="414.5">
+                Lane 2
+            </text>
+        </g>
+        <path d="M 20 470 L 0 470 L 0 590 L 20 590" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 20 470 L 710 470 L 710 590 L 20 590" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 20 470 L 20 590" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,10,530)">
+            <text x="9.5" y="534.5">
+                Lane 3
+            </text>
+        </g>
+        <path d="M 710 20 L 710 0 L 1420 0 L 1420 20" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 710 20 L 710 590 L 1420 590 L 1420 20" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 710 20 L 1420 20" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="1064.5" y="14.5">
+                youtube API
+            </text>
+        </g>
+        <path d="M 730 20 L 710 20 L 710 350 L 730 350" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 730 20 L 1420 20 L 1420 350 L 730 350" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 730 20 L 730 350" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,720,185)">
+            <text x="719.5" y="189.5">
+                Lane 1
+            </text>
+        </g>
+        <path d="M 730 350 L 710 350 L 710 470 L 730 470" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 730 350 L 1420 350 L 1420 470 L 730 470" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 730 350 L 730 470" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,720,410)">
+            <text x="719.5" y="414.5">
+                Lane 2
+            </text>
+        </g>
+        <path d="M 730 470 L 710 470 L 710 590 L 730 590" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 730 470 L 1420 470 L 1420 590 L 730 590" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 730 470 L 730 590" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px" transform="rotate(-90,720,530)">
+            <text x="719.5" y="534.5">
+                Lane 3
+            </text>
+        </g>
+    </g>
+</svg>
